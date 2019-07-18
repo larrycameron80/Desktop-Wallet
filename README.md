@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Spend Desktop Wallet
 
 The project is bootstraped using boostrap, crypto libaries, jquery and electron-forge
@@ -57,3 +58,7 @@ s)
 ## License
 
 [MIT](LICENSE) © [SPEND](https://spend.org)
+=======
+# Desktop-Wallet
+Spendchain Desktop Wallet for Windows &amp; MacOS
+>>>>>>> 8a9fbe9f4bfbf0ce51164fc40ee37c41f6e7d041
