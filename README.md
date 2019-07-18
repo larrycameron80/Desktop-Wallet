@@ -57,7 +57,4 @@ s)
 ## License
 
 [MIT](LICENSE) © [SPEND](https://spend.org)
-=======
-# Desktop-Wallet
-Spendchain Desktop Wallet for Windows &amp; MacOS
->>>>>>> 8a9fbe9f4bfbf0ce51164fc40ee37c41f6e7d041
+
