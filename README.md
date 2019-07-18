@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Spend Desktop Wallet
 
 The project is bootstraped using boostrap, crypto libaries, jquery and electron-forge
