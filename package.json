@@ -50,6 +50,7 @@
     "bootstrap": "^4.3.1",
     "electron-compile": "^6.4.4",
     "electron-squirrel-startup": "^1.0.0",
+    "eslint": "^6.0.1",
     "jquery": "^3.4.1",
     "spend-js": "git+https://github.com/spendchaindev/spend-js.git"
   },
@@ -60,7 +61,6 @@
     "electron-forge": "^5.2.4",
     "electron-prebuilt-compile": "3.0.10",
     "electron-rebuild": "^1.8.5",
-    "eslint": "^3.19.0",
     "eslint-config-airbnb": "^15.1.0",
     "eslint-plugin-import": "^2.18.0",
     "eslint-plugin-jsx-a11y": "^5.1.1",
