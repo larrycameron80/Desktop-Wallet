@@ -10,7 +10,9 @@
     "make": "electron-forge make",
     "publish": "electron-forge publish",
     "lint": "eslint src --color",
-    "rebuild": "electron-rebuild -f -m ./src/content/crypto"
+    "rebuild": "electron-rebuild -f -m ./src/content/crypto",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "keywords": [],
   "author": "dev",
@@ -52,7 +54,8 @@
     "electron-squirrel-startup": "^1.0.0",
     "eslint": "^6.0.1",
     "jquery": "^3.4.1",
-    "spend-js": "git+https://github.com/spendchaindev/spend-js.git"
+    "spend-js": "git+https://github.com/spendchaindev/spend-js.git",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "babel-plugin-transform-async-to-generator": "^6.24.1",
@@ -65,5 +68,6 @@
     "eslint-plugin-import": "^2.18.0",
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-react": "^7.14.2"
-  }
+  },
+  "snyk": true
 }
