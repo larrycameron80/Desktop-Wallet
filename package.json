@@ -50,7 +50,7 @@
     "bootstrap": "^4.3.1",
     "electron-compile": "^6.4.4",
     "electron-squirrel-startup": "^1.0.0",
-    "eslint": "^6.0.1",
+    "eslint": "^7.16.0",
     "jquery": "^3.4.1",
     "spend-js": "git+https://github.com/spendchaindev/spend-js.git"
   },
